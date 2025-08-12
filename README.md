@@ -1,8 +1,6 @@
 # Hi, I'm Matheus Nunes 👋
 
-**Software Engineer** | Analytics Engineer | Tag Manager Specialist | Data Engineer  
-Typescript & Elixir enthusiast
-
+**Software Engineer** | Data Engineer | Analytics Engineer | Tag Manager Specialist
 ---
 
 ### Mission
