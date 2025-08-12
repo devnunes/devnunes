@@ -1,6 +1,6 @@
 # Hi, I'm Matheus Nunes 👋
 
-**Software Engineer** | Data Engineer | Analytics Engineer | Tag Manager Specialist
+**Software Engineer** | Elixir | TypeScript | Backend & Data Engineering | Fintech
 ---
 
 ### Mission
